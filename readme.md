@@ -48,3 +48,5 @@ I am sure with these sugars installed you will find Espresso an even better tool
 Enjoy!
 
 PS I will soon be publishing an article about why I still prefer Espresso over other text editors and what are its most impressive features. I will update this page once it's out. If you are interested, stay tuned by select "Watching" from the drop-down menu above. Cheers!
+
+PSS Spice up your coding visuals with [my theme for Espresso](https://github.com/GioSensation/gsvrailcasts-espresso-theme "A dark and spicy theme for Espresso, the web editor"). It's based on Railcasts, it's dark and sweet.
